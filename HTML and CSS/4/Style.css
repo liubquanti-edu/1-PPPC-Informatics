@@ -1,0 +1,66 @@
+body {
+	color: #009933;
+	font-size: 14pt;
+	font-family: Arial;
+
+}
+
+.p1 {
+	letter-spacing: 10px;
+}
+
+.p2 {
+	font-style: italic;
+	text-decoration: underline;
+}
+
+.p3 {
+	font-family: Comic Sans;
+	font-style: 25pt;
+	text-indent: 50px;
+}
+
+.rich {
+	font-style: Arial;
+	font-size: 15pt;
+	font-weight: bold;
+	font-style: italic;
+	color: orange;
+	line-height: 25pt;
+}
+
+.persons {
+	white-space: pre-line;
+
+}
+
+.red {
+	color: #ff0000;
+	text-transform: uppercase;
+}
+
+.class15 {
+	font-style: Courier;
+	font-size: 12pt;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	text-decoration: underline;
+--------
+--------
+}
+
+.first {
+	color: green;
+}
+
+.second {
+	color: pink;
+}
+
+.nonetype {
+	list-style-type: none;
+}
+
+.square {
+	list-style-type: square;
+}

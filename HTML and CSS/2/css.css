@@ -1,0 +1,27 @@
+body {
+	
+}
+
+#block1{
+	width: 500px;
+	height: 400px;
+	background: lightgreen;
+	margin: 0 auto;
+}
+#block2{
+	width: 100px;
+	height: 100px;
+	background: white;
+	margin: 0 auto;
+	position: absolute;
+	top: 40px;
+	left: 130px;
+}
+#block3{
+	width: 100px;
+	height: 100px;
+	background: white;
+	position: absolute;
+	top: 270px;
+	left: 450px;
+}
